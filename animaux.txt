@@ -7,4 +7,5 @@ chien
 léopard
 lama
 licorne
+lama2
 
